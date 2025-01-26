@@ -10,8 +10,15 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        'custom-green': '#6b9080',
+        'soft-green': '#a4c3b2',
+        'light-blue': '#cce3de',
+        'pale-blue': '#eaf4f4',
+        'off-white': '#f6fff8',
       },
     },
   },
   plugins: [],
 };
+
+
